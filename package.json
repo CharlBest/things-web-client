@@ -1,0 +1,14 @@
+{
+    "name": "things-nodejs-server",
+    "version": "0.0.1",
+    "description": "Things Nodejs server",
+    "private": true,
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "body-parser": "^1.17.2",
+        "cors": "^2.8.3",
+        "express": "^4.15.3"
+    }
+}
